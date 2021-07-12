@@ -1,0 +1,32 @@
+.first{
+	text-align:center;
+	background-color:black;
+	color:white;
+	padding:300px;
+}
+body{
+	background-color:black;
+}
+
+button {
+	width: 200px;
+	height: 40px;
+	text-align:center;
+}
+.second{
+	text-align:center;
+}
+form{
+	color:white;
+	text-align:center;
+
+}
+p{
+	color:white;
+	text-align:center;
+
+}
+h2{
+	color:white;
+	text-align:center;
+}
